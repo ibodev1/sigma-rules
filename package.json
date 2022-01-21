@@ -1,10 +1,11 @@
 {
-  "name": "random",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sigmarules",
+  "version": "1.0.1",
+  "description": "try app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
   },
   "keywords": [],
   "author": "",
