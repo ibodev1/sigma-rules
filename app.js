@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const data = require('./data');
 const ejs = require('ejs');
+const port = process.env.PORT || 5000;
 
 app.use(express.json());
 app.engine('.ejs', ejs.__express);
