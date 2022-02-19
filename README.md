@@ -2,4 +2,4 @@
 sigma rules try express app
 
 # API
-https://sigma-rules.herokuapp.com/
+https://sigma-rules.herokuapp.com/api
